@@ -9,6 +9,10 @@ h1{
     text-align: center;
     color: #141313;
     margin-top: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 265px;
+    margin-right: 265px;
 }
 .container{
     margin-top: 40px;
